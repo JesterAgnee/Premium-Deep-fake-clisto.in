@@ -3,14 +3,14 @@ Try our premium AI face swap app with realistic face swapping, deepfake technolo
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://www.clisto.in">
-    <img src="https://www.clisto.in/clisto_ui.png" alt="Clisto Logo" width="120" height="120">
+    <img src="https://www.clisto.in/clisto_ui.png" alt="Clisto Logo" width="120" height="120"><h1 align="center">Clisto.in — AI Face Swap Tool</h1>
   </a>
 </p>
 
 <!-- PROJECT BANNER -->
 <p align="center">
   <a href="https://www.clisto.in">
-    <img src="https://www.clisto.in/roop.webp" alt="Clisto Banner" style="border-radius:12px; max-width:100%;"><h1 align="center">Clisto.in — AI Face Swap Tool</h1>
+    <img src="https://www.clisto.in/roop.webp" alt="Clisto Banner" style="border-radius:12px; max-width:100%;">
   </a>
 </p>
 
